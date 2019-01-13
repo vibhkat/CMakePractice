@@ -1,1 +1,1 @@
-add_subdirectory(hello-dir)
+add_subdirectory(hello-exe)
